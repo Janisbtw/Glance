@@ -1,0 +1,4 @@
+module GlanceC {
+    umbrella "."
+    export *
+}

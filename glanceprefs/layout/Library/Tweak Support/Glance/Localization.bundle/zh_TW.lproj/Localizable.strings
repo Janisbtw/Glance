@@ -1,0 +1,156 @@
+<dict>
+  <key>ENABLED</key>
+  <string>已啟用</string>
+
+  <key>ERROR</key>
+  <string>錯誤</string>
+
+  <key>LICENSE_INVALID</key>
+  <string>驗證錯誤，請重新驗證證照。</string>
+
+  <key>HIDE_STATUS_BAR</key>
+  <string>隱藏狀態欄</string>
+
+  <key>FOCUS_SETTINGS</key>
+  <string>專注模式設定</string>
+
+  <key>ENABLING_WILL_DISABLE_GLANCE_WHILE_FOCUS</key>
+  <string>啟用專注模式將停用 Glance</string>
+
+  <key>LOADED_PHOTO_PROVIDERS</key>
+  <string>從來源提取並顯示個人頭像</string>
+
+  <key>NO_BUNDLES_FOUND</key>
+  <string>找不到頭像來源</string>
+
+  <key>PROVIDERS</key>
+  <string>來源</string>
+
+  <key>RELOAD</key>
+  <string>重新載入</string>
+
+  <key>GET_BUNDLES_HERE</key>
+  <string>載入來源！</string>
+
+  <key>GENERAL</key>
+  <string>一般設定</string>
+
+
+  <key>ICON_SIZE</key>
+  <string>圖示大小</string>
+
+  <key>SHOW_APP_ICON_AND_PROFILE_PICTURE</key>
+  <string>顯示應用程式圖示以及個人頭像</string>
+
+  <key>SHOW_NOTIFICATION_TITLE</key>
+  <string>顯示通知標題</string>
+
+  <key>SHOW_NOTIFICATION_CONTENT</key>
+  <string>顯示通知內容</string>
+
+  <key>LOCK_AFTER_GLANCE</key>
+  <string>顯示 Glance 後鎖定螢幕</string>
+
+  <key>ADJUST_BRIGHTNESS</key>
+  <string>調整亮度</string>
+
+  <key>BLACKOUT</key>
+  <string>螢幕黑屏</string>
+
+  <key>DISABLING_BLACKOUT_BLUR_INSTEAD</key>
+  <string>停用「螢幕黑屏」將模糊化螢幕作為替代方案</string>
+
+  <key>APPEARANCE</key>
+  <string>外觀</string>
+
+
+  <key>COLORED_TITLE</key>
+  <string>將通知標題上色</string>
+
+  <key>COLORED_CONTENT</key>
+  <string>將通知內容上色</string>
+
+  <key>COLOR</key>
+  <string>顏色</string>
+
+  <key>APP_ICON</key>
+  <string>應用程式圖示</string>
+
+  <key>PROFILE_PICTURE_APP_ICON</key>
+  <string>個人頭像/應用程式圖示</string>
+
+
+  <key>TITLE_FONT_SIZE</key>
+  <string>標題字體大小</string>
+
+  <key>TITLE_FONT_WEIGHT</key>
+  <string>標題字體粗細程度</string>
+
+  <key>CONTENT_FONT_SIZE</key>
+  <string>內容字體大小</string>
+
+  <key>CONTENT_FONT_WEIGHT</key>
+  <string>內容字體粗細程度</string>
+
+  <key>THIN</key>
+  <string>細</string>
+
+  <key>LIGHT</key>
+  <string>極細</string>
+
+  <key>REGULAR</key>
+  <string>正常</string>
+
+  <key>BOLD</key>
+  <string>粗體</string>
+
+  <key>HEAVY</key>
+  <string>極粗體</string>
+
+  <key>BLACK</key>
+  <string>粗黑體</string>
+
+  <key>FONT</key>
+  <string>字體</string>
+
+
+  <key>BLUR_INTENSITY</key>
+  <string>畫面模糊程度</string>
+
+  <key>EFFECTS</key>
+  <string>額外效果</string>
+
+  <key>DISPLAY_DURATION</key>
+  <string>顯示時間間隔</string>
+
+  <key>OPEN_CLOSE_DURATION</key>
+  <string>開啟 &amp; 關閉間隔</string>
+
+  <key>FADE_IN_OUT_DURATION</key>
+  <string>淡入 &amp; 出間隔</string>
+
+  <key>ANIMATIONS</key>
+  <string>動畫</string>
+
+
+  <key>LICENSE_ACTIVATED</key>
+  <string>成功啟用證照！</string>
+
+  <key>THANKS_FOR_PURCHASE_RESPRING</key>
+  <string>感謝購買此插件！請重新啟動主畫面以使用此插件！</string>
+
+  <key>LICENSE_ACTIVATION_FAILED</key>
+  <string>啟用證照失敗！</string>
+
+  <key>TRY_AGAIN</key>
+  <string>請再試一次</string>
+
+  <key>REVALIDATE_LICENSE</key>
+  <string>重新啟用證照</string>
+
+  <key>OK</key>
+  <string>確認</string>
+
+  <key>RESPRING</key>
+  <string>重新啟動主畫面</string>
+</dict>

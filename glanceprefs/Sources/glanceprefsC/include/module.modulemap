@@ -1,0 +1,4 @@
+module glanceprefsC {
+    umbrella "."
+    export *
+}

@@ -1,0 +1,13 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+.build/
+.theos
+/packages
+.theos/
+packages/
+.DS_Store
+.swift-version
+.vscode/

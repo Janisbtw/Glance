@@ -1,0 +1,156 @@
+<dict>
+  <key>ENABLED</key>
+  <string>Enabled</string>
+
+  <key>ERROR</key>
+  <string>Error</string>
+
+  <key>LICENSE_INVALID</key>
+  <string>License is not valid. Please try to revalidate the License.</string>
+
+  <key>HIDE_STATUS_BAR</key>
+  <string>Hide Status Bar</string>
+
+  <key>FOCUS_SETTINGS</key>
+  <string>Focus Settings</string>
+
+  <key>ENABLING_WILL_DISABLE_GLANCE_WHILE_FOCUS</key>
+  <string>Enabling a Focus mode will disable Glance while the Focus mode is active</string>
+
+  <key>LOADED_PHOTO_PROVIDERS</key>
+  <string>Loaded Photo Providers</string>
+
+  <key>NO_BUNDLES_FOUND</key>
+  <string>No providers found</string>
+
+  <key>PROVIDERS</key>
+  <string>Providers</string>
+
+  <key>RELOAD</key>
+  <string>Reload</string>
+
+  <key>GET_BUNDLES_HERE</key>
+  <string>Get them here!</string>
+
+  <key>GENERAL</key>
+  <string>General</string>
+
+
+  <key>ICON_SIZE</key>
+  <string>Icon Size</string>
+
+  <key>SHOW_APP_ICON_AND_PROFILE_PICTURE</key>
+  <string>Show App Icon and Profile Picture</string>
+
+  <key>SHOW_NOTIFICATION_TITLE</key>
+  <string>Show Notification Title</string>
+
+  <key>SHOW_NOTIFICATION_CONTENT</key>
+  <string>Show Notification Content</string>
+
+  <key>LOCK_AFTER_GLANCE</key>
+  <string>Lock after Glance</string>
+
+  <key>ADJUST_BRIGHTNESS</key>
+  <string>Adjust Brightness</string>
+
+  <key>BLACKOUT</key>
+  <string>Blackout</string>
+
+  <key>DISABLING_BLACKOUT_BLUR_INSTEAD</key>
+  <string>Disabling blackout will instead blur the background</string>
+
+  <key>APPEARANCE</key>
+  <string>Appearance</string>
+
+
+  <key>COLORED_TITLE</key>
+  <string>Colored Title</string>
+
+  <key>COLORED_CONTENT</key>
+  <string>Colored Content</string>
+
+  <key>COLOR</key>
+  <string>Color</string>
+
+  <key>APP_ICON</key>
+  <string>App Icon</string>
+
+  <key>PROFILE_PICTURE_APP_ICON</key>
+  <string>Profile Picture / App Icon</string>
+
+
+  <key>TITLE_FONT_SIZE</key>
+  <string>Title Font Size</string>
+
+  <key>TITLE_FONT_WEIGHT</key>
+  <string>Title Font Weight</string>
+
+  <key>CONTENT_FONT_SIZE</key>
+  <string>Content Font Size</string>
+
+  <key>CONTENT_FONT_WEIGHT</key>
+  <string>Content Font Weight</string>
+
+  <key>THIN</key>
+  <string>Thin</string>
+
+  <key>LIGHT</key>
+  <string>Light</string>
+
+  <key>REGULAR</key>
+  <string>Regular</string>
+
+  <key>BOLD</key>
+  <string>Bold</string>
+
+  <key>HEAVY</key>
+  <string>Heavy</string>
+
+  <key>BLACK</key>
+  <string>Black</string>
+
+  <key>FONT</key>
+  <string>Font</string>
+
+
+  <key>BLUR_INTENSITY</key>
+  <string>Blur Intensity</string>
+
+  <key>EFFECTS</key>
+  <string>Effects</string>
+
+  <key>DISPLAY_DURATION</key>
+  <string>Display Duration</string>
+
+  <key>OPEN_CLOSE_DURATION</key>
+  <string>Open &amp; Close Duration</string>
+
+  <key>FADE_IN_OUT_DURATION</key>
+  <string>Fade In &amp; Out Duration</string>
+
+  <key>ANIMATIONS</key>
+  <string>Animations</string>
+
+
+  <key>LICENSE_ACTIVATED</key>
+  <string>License successfully activated</string>
+
+  <key>THANKS_FOR_PURCHASE_RESPRING</key>
+  <string>Thank you for your purchase! Please respring to activate the tweak</string>
+
+  <key>LICENSE_ACTIVATION_FAILED</key>
+  <string>License activation failed!</string>
+
+  <key>TRY_AGAIN</key>
+  <string>Try again</string>
+
+  <key>REVALIDATE_LICENSE</key>
+  <string>Revalidate License</string>
+
+  <key>OK</key>
+  <string>Okay</string>
+
+  <key>RESPRING</key>
+  <string>Respring</string>
+</dict>

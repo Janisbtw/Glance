@@ -1,0 +1,158 @@
+<dict>
+  <key>ENABLED</key>
+  <string>Aktiviert</string>
+
+  <key>ERROR</key>
+  <string>Fehler</string>
+
+  <key>LICENSE_INVALID</key>
+  <string>Lizenz ist nicht gültig. Bitte versuche, die Lizenz erneut zu überprüfen.</string>
+
+  <key>HIDE_STATUS_BAR</key>
+  <string>Verstecke Statusleiste</string>
+
+  <key>FOCUS_SETTINGS</key>
+  <string>Fokuseinstellungen</string>
+
+  <key>ENABLING_WILL_DISABLE_GLANCE_WHILE_FOCUS</key>
+  <string>Wenn ein Schalter aktiviert wird, wird Glance solange deaktiviert wie der entsprechende Fokus aktiv ist</string>
+  <!-- <string>Das Aktivieren eines Schalters wird Glance deaktivieren, solange der Fokusmodus aktiv ist</string> -->
+  <!-- <string>Wenn ein Fokus aktiviert wird, wird Glance solange deaktiviert sein wie der Fokus aktiv ist</string> -->
+  <!-- <string>Das Aktivieren eines Fokusmodus wird Glance deaktivieren, solange der Fokusmodus aktiv ist</string> -->
+
+  <key>LOADED_PHOTO_PROVIDERS</key>
+  <string>Profilbild-Provider</string>
+
+  <key>NO_BUNDLES_FOUND</key>
+  <string>Keine Provider gefunden</string>
+
+  <key>PROVIDERS</key>
+  <string>Provider</string>
+
+  <key>RELOAD</key>
+  <string>Neu laden</string>
+
+  <key>GET_BUNDLES_HERE</key>
+  <string>Hole sie hier!</string>
+
+  <key>GENERAL</key>
+  <string>Allgemein</string>
+
+
+  <key>ICON_SIZE</key>
+  <string>Icongröße</string>
+
+  <key>SHOW_APP_ICON_AND_PROFILE_PICTURE</key>
+  <string>Zeige App Icon und Profilbild</string>
+
+  <key>SHOW_NOTIFICATION_TITLE</key>
+  <string>Zeige Nachrichtentitel</string>
+
+  <key>SHOW_NOTIFICATION_CONTENT</key>
+  <string>Zeige Nachrichteninhalt</string>
+
+  <key>LOCK_AFTER_GLANCE</key>
+  <string>Schalte Bildschirm nach Glance aus</string>
+
+  <key>ADJUST_BRIGHTNESS</key>
+  <string>Helligkeit anpassen</string>
+
+  <key>BLACKOUT</key>
+  <string>Verdunkelung</string>
+
+  <key>DISABLING_BLACKOUT_BLUR_INSTEAD</key>
+  <string>Wenn Verdunkelung deaktiviert wird, verschwimmt der Hintergrund stattdessen</string>
+
+  <key>APPEARANCE</key>
+  <string>Aussehen</string>
+
+
+  <key>COLORED_TITLE</key>
+  <string>Farbiger Titel</string>
+
+  <key>COLORED_CONTENT</key>
+  <string>Farbiger Inhalt</string>
+
+  <key>COLOR</key>
+  <string>Farbe</string>
+
+  <key>APP_ICON</key>
+  <string>App Icon</string>
+
+  <key>PROFILE_PICTURE_APP_ICON</key>
+  <string>Profilbild / App Icon</string>
+
+
+  <key>TITLE_FONT_SIZE</key>
+  <string>Titelschriftgröße</string>
+
+  <key>TITLE_FONT_WEIGHT</key>
+  <string>Titelschriftstärke</string>
+
+  <key>CONTENT_FONT_SIZE</key>
+  <string>Inhaltsschriftgröße</string>
+
+  <key>CONTENT_FONT_WEIGHT</key>
+  <string>Inhaltsschriftstärke</string>
+
+  <key>THIN</key>
+  <string>Dünn</string>
+
+  <key>LIGHT</key>
+  <string>Leicht</string>
+
+  <key>REGULAR</key>
+  <string>Normal</string>
+
+  <key>BOLD</key>
+  <string>Fett</string>
+
+  <key>HEAVY</key>
+  <string>Sehr fett</string>
+
+  <key>BLACK</key>
+  <string>Extrem fett</string>
+
+  <key>FONT</key>
+  <string>Schrift</string>
+
+
+  <key>BLUR_INTENSITY</key>
+  <string>Verschwommenheitsgrad</string>
+
+  <key>EFFECTS</key>
+  <string>Effekte</string>
+
+  <key>DISPLAY_DURATION</key>
+  <string>Anzeigedauer</string>
+
+  <key>OPEN_CLOSE_DURATION</key>
+  <string>Öffnungs- und Schließdauer</string>
+
+  <key>FADE_IN_OUT_DURATION</key>
+  <string>Einblendungs- und Verblassungsdauer</string>
+
+  <key>ANIMATIONS</key>
+  <string>Animationen</string>
+
+  <key>LICENSE_ACTIVATED</key>
+  <string>Lizenz erfolgreich aktiviert!</string>
+
+  <key>THANKS_FOR_PURCHASE_RESPRING</key>
+  <string>Danke für deinen Kauf! Bitte respringe, um den Tweak zu aktivieren</string>
+
+  <key>LICENSE_ACTIVATION_FAILED</key>
+  <string>Lizenzaktivierung fehlgeschlagen!</string>
+
+  <key>TRY_AGAIN</key>
+  <string>Erneut versuchen</string>
+
+  <key>REVALIDATE_LICENSE</key>
+  <string>Lizenz erneut überprüfen</string>
+
+  <key>OK</key>
+  <string>Okay</string>
+
+  <key>RESPRING</key>
+  <string>Respring</string>
+</dict>

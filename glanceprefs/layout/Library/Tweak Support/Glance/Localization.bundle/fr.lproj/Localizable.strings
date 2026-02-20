@@ -1,0 +1,151 @@
+<dict>
+  <key>ENABLED</key>
+  <string>Activé</string>
+
+  <key>ERROR</key>
+  <string>Erreur</string>
+
+  <key>LICENSE_INVALID</key>
+  <string>La licence n'est pas valide. Veuillez essayer de revalider la licence.</string>
+
+  <key>HIDE_STATUS_BAR</key>
+  <string>Masquer la barre d'état</string>
+
+  <key>FOCUS_SETTINGS</key>
+  <string>Paramètres de focus</string>
+
+  <key>ENABLING_WILL_DISABLE_GLANCE_WHILE_FOCUS</key>
+  <string>Activer un mode Focus désactivera Glance tant que le mode Focus est actif</string>
+
+  <key>LOADED_PHOTO_PROVIDERS</key>
+  <string>Fournisseurs de photos chargés</string>
+
+  <key>NO_BUNDLES_FOUND</key>
+  <string>Aucun fournisseur trouvé</string>
+
+  <key>PROVIDERS</key>
+  <string>Fournisseurs</string>
+
+  <key>RELOAD</key>
+  <string>Recharger</string>
+
+  <key>GET_BUNDLES_HERE</key>
+  <string>Obtenez-les ici!</string>
+
+  <key>GENERAL</key>
+  <string>Général</string>
+
+  <key>ICON_SIZE</key>
+  <string>Taille de l'icône</string>
+
+  <key>SHOW_APP_ICON_AND_PROFILE_PICTURE</key>
+  <string>Afficher l'icône de l'application et la photo de profil</string>
+
+  <key>SHOW_NOTIFICATION_TITLE</key>
+  <string>Afficher le titre de la notification</string>
+
+  <key>SHOW_NOTIFICATION_CONTENT</key>
+  <string>Afficher le contenu de la notification</string>
+
+  <key>LOCK_AFTER_GLANCE</key>
+  <string>Verrouiller après Glance</string>
+
+  <key>ADJUST_BRIGHTNESS</key>
+  <string>Régler la luminosité</string>
+
+  <key>BLACKOUT</key>
+  <string>Écran noir</string>
+
+  <key>DISABLING_BLACKOUT_BLUR_INSTEAD</key>
+  <string>Désactiver l'écran noir floutera le fond à la place</string>
+
+  <key>APPEARANCE</key>
+  <string>Apparence</string>
+
+  <key>COLORED_TITLE</key>
+  <string>Titre coloré</string>
+
+  <key>COLORED_CONTENT</key>
+  <string>Contenu coloré</string>
+
+  <key>COLOR</key>
+  <string>Couleur</string>
+
+  <key>APP_ICON</key>
+  <string>Icône de l'application</string>
+
+  <key>PROFILE_PICTURE_APP_ICON</key>
+  <string>Photo de profil / Icône de l'application</string>
+
+  <key>TITLE_FONT_SIZE</key>
+  <string>Taille de la police du titre</string>
+
+  <key>TITLE_FONT_WEIGHT</key>
+  <string>Épaisseur de la police du titre</string>
+
+  <key>CONTENT_FONT_SIZE</key>
+  <string>Taille de la police du contenu</string>
+
+  <key>CONTENT_FONT_WEIGHT</key>
+  <string>Épaisseur de la police du contenu</string>
+
+  <key>THIN</key>
+  <string>Fin</string>
+
+  <key>LIGHT</key>
+  <string>Léger</string>
+
+  <key>REGULAR</key>
+  <string>Normal</string>
+
+  <key>BOLD</key>
+  <string>Gras</string>
+
+  <key>HEAVY</key>
+  <string>Lourd</string>
+
+  <key>BLACK</key>
+  <string>Noir</string>
+
+  <key>FONT</key>
+  <string>Police</string>
+
+  <key>BLUR_INTENSITY</key>
+  <string>Intensité du flou</string>
+
+  <key>EFFECTS</key>
+  <string>Effets</string>
+
+  <key>DISPLAY_DURATION</key>
+  <string>Durée d'affichage</string>
+
+  <key>OPEN_CLOSE_DURATION</key>
+  <string>Durée d'ouverture &amp; de fermeture</string>
+
+  <key>FADE_IN_OUT_DURATION</key>
+  <string>Durée de l'apparition &amp; disparition</string>
+
+  <key>ANIMATIONS</key>
+  <string>Animations</string>
+
+  <key>LICENSE_ACTIVATED</key>
+  <string>Licence activée avec succès</string>
+
+  <key>THANKS_FOR_PURCHASE_RESPRING</key>
+  <string>Merci pour votre achat ! Veuillez relancer pour activer le tweak</string>
+
+  <key>LICENSE_ACTIVATION_FAILED</key>
+  <string>L'activation de la licence a échoué !</string>
+
+  <key>TRY_AGAIN</key>
+  <string>Réessayer</string>
+
+  <key>REVALIDATE_LICENSE</key>
+  <string>Revalider la licence</string>
+
+  <key>OK</key>
+  <string>D'accord</string>
+
+  <key>RESPRING</key>
+  <string>Relancer</string>
+</dict>
